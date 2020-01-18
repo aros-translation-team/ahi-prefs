@@ -31,7 +31,7 @@ msgMenuProject
 ; \000Project
 ;
 msgItemOpen
-O\000Öffnen
+O\000Öffnen...
 ; O\000Open...
 ;
 msgItemSaveAs
@@ -75,15 +75,15 @@ msgMenuHelp
 ; \000Help
 ;
 msgItemHelp
-Help\000Hilfe
+Help\000Hilfe...
 ; Help\000Help...
 ;
 msgItemUsersGuide
-H\000AHI Anleitung
+H\000AHI Anleitung...
 ; H\000AHI User's guide...
 ;
 msgItemConceptIndex
-\000Begriffe Index
+\000Begriffe Index...
 ; \000Concept Index...
 ;
 ; *** The pages ***
@@ -140,7 +140,7 @@ _Kanäle
 ;
 msgOptNoChannels
 Selbsttätig
-;Automatic 
+; 
 ;
 msgOptVolume
 _Lautstärke
@@ -263,10 +263,10 @@ msgTextProgramName
 AHI-Einstellungen
 ; AHI preferences
 ;
-;You can use something like "%s%s\nCopyright ©%s\nEnglish translation by Your Name" here...
+;You can use something like "%s%s\nCopyright (C)%s\nEnglish translation by Your Name" here...
 msgTextCopyright
 %s%s\nCopyright ©%s\nDeutsche Übersetzung von Uwe Bojartschuk
-; %s%s\nCopyright ©%s
+; %s%s\nCopyright (C)%s
 ;
 msgTextNoWindow
 Kann Fenster nicht öffnen.
@@ -281,8 +281,8 @@ Kann `%s' nicht finden!
 ; Unable to find `%s'!
 ;
 msgTextNoOpen
-Kann `%s' Version %ld nicht öffnen.
-; Unable to open `%s' version %ld.
+Kann '%s' Version %ld nicht öffnen.
+; Unable to open '%s' version %ld.
 ;
 ; *** Additions
 ;
