@@ -47,11 +47,11 @@ Q\000Avslutt
 ; Q\000Quit
 ;
 msgMenuEdit
-\000Rediger
+\000Forandre
 ; \000Edit
 ;
 msgItemDefaults
-F\000Tilbakestill til standardverdier
+F\000Standardverdier
 ; D\000Reset To Defaults
 ;
 msgItemLastSaved
@@ -63,11 +63,11 @@ G\000Gjenopprett
 ; R\000Restore
 ;
 msgMenuSettings
-\000Innstillinger
+\000Valg
 ; \000Settings
 ;
 msgItemCreateIcons
-\000Opprette ikoner?
+\000Lage ikoner?
 ; I\000Create Icons?
 ;
 msgMenuHelp
@@ -109,7 +109,7 @@ Musikk enhet
 ; *** Properties box ***
 ;
 msgProperties
-Modus ID\nInnspilling\nForfatter\nOpphavsrett\nDriver\nVersjon\nKommentar
+Modus ID\nInnspilling\nForfatter\nOpphavsrett\nDriver\nVersjon\nAnnotation
 ; Mode ID\nRecording\nAuthor\nCopyright\nDriver\nVersion\nAnnotation
 ;
 msgPropRecordFull
@@ -139,7 +139,7 @@ _Kanaler
 ; C_hannels
 ;
 msgOptNoChannels
-_Ingen kanaler
+
 ; 
 ;
 msgOptVolume
@@ -182,7 +182,7 @@ Globale valg
 ; Global options
 ;
 msgGlobOptDebugLevel
-FeilsÃ¸kingsnivÃ¥
+Feilsøke_nivå
 ; _Debug level
 ;
 msgGlobOptEcho
@@ -194,7 +194,7 @@ Surround i "_Hurtig" modus
 ; Surround in "_Fast" modes
 ;
 msgGlobOptCPULimit
-CPU-forbruks_grense
+CPU bruk _grense
 ; CPU usage _limit
 ;
 ; *** Debug levels ***
@@ -208,7 +208,7 @@ Lav
 ; Low
 ;
 msgDebugHigh
-HÃ¸y
+Høy
 ; High
 ;
 msgDebugFull
@@ -218,7 +218,7 @@ Full
 ; *** Echo ***
 ;
 msgEchoEnabled
-PÃ¥
+På
 ; Enabled
 ;
 msgEchoFast
@@ -232,7 +232,7 @@ Av
 ; *** Surround ***
 ;
 msgSurroundEnabled
-PÃ¥
+På
 ; Enabled
 ;
 msgSurroundDisabled
@@ -263,26 +263,26 @@ msgTextProgramName
 AHI innstillinger
 ; AHI preferences
 ;
-;You can use something like "%s%s\nCopyright ?%s\nEnglish translation by Your Name" here...
+;You can use something like "%s%s\nCopyright ©%s\nEnglish translation by Your Name" here...
 msgTextCopyright
-%s%s\nOpphavsrett @%s
-; %s%s\nCopyright @%s
+%s%s\nOpphavsrett ©%s\nNorsk oversettelse av Eivind Olsen
+; %s%s\nCopyright ©%s
 ;
 msgTextNoWindow
-Klarte ikke Ã¥pne vindu.
+Kunne ikke åpne vindu.
 ; Unable to open window.
 ;
 msgTextNoFileRequester
-Klarte ikke allokere filforespÃ¸rsel.
+Kunne ikke allokere filforespørsel.
 ; Unable to allocate file requester.
 ;
 msgTextNoFind
-Klarte ikke finne `%s'!
+Kunne ikke finne `%s'!
 ; Unable to find `%s'!
 ;
 msgTextNoOpen
-Klarte ikke Ã¥pne `%s' versjon %ld.
-; Unable to open `%s' version %ld.
+Kunne ikke åpne `%s' versjon %ld.
+; Unable to open `%s´ version %ld.
 ;
 ; *** Additions
 ;
@@ -299,54 +299,54 @@ Med klipping
 ; With clipping
 ;
 msgGlobOptACTime
-Standard anti-click tid
+
 ; Default anti-click time
 ;
 msgButtonPlay
-Spill av test lyd
+
 ; _Play a test sound
 ;
 msgOptScalemode
-Volum justering
+
 ; Volume sc_aling
 ;
 msgSMFixedSafe
-Sikker
+
 ; Safe
 ;
 msgSMDynSafe
-Sikker, dynamisk
+
 ; Safe, dynamic
 ;
 msgSM0dB
-Fult volum
+
 ; Full volume
 ;
 msgSM3dB
--3 dB
+
 ; -3 dB
 ;
 msgSM6dB
--6 db
+
 ; -6 dB
 ;
 msgFreqFmt
-%ld Hz
+
 ; %ld Hz
 ;
 msgChanFmt
-%ld
+
 ; %ld
 ;
 msgVolFmt
-%+4.1f dB
+
 ; %+4.1f dB
 ;
 msgACTimeFmt
-$ld ms
+
 ; %ld ms
 ;
 msgPercentFmt
-%ld%%
+
 ; %ld%%
 ;
