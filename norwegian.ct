@@ -1,5 +1,5 @@
 ## version $VER: ahiprefs.catalog 4.6 (4.8.2004)
-## language norsk
+## language norwegian
 ## codeset 0
 ;
 ## chunk AUTH Translated by Eivind Olsen/ATO <eivindo@bgnett.no>
@@ -269,7 +269,7 @@ msgTextCopyright
 ; %s%s\nCopyright @%s
 ;
 msgTextNoWindow
-Klarte ikke åpne vindu.
+Klarte ikke åpne vinduet.
 ; Unable to open window.
 ;
 msgTextNoFileRequester
