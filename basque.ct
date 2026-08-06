@@ -1,0 +1,307 @@
+## version $VER: ahiprefs.catalog 5.0 (06.08.2026)
+## language euskara
+## codeset 0
+;
+msgMenuProject
+\000Proiektu
+; \000Project
+;
+msgItemOpen
+O\000Ireki...
+; O\000Open...
+;
+msgItemSaveAs
+A\000Gorde bezala...
+; A\000Save As...
+;
+msgItemAbout
+?\000Honi buruz...
+; ?\000About...
+;
+msgItemQuit
+Q\000Atera
+; Q\000Quit
+;
+msgMenuEdit
+\000Editatu
+; \000Edit
+;
+msgItemDefaults
+D\000Lehenetsietara berrezarri
+; D\000Reset To Defaults
+;
+msgItemLastSaved
+L\000Azken gordetakoak
+; L\000Last Saved
+;
+msgItemRestore
+R\000Berrezarri
+; R\000Restore
+;
+msgMenuSettings
+\000Ezarpenak
+; \000Settings
+;
+msgItemCreateIcons
+I\000Ikonoak sortu?
+; I\000Create Icons?
+;
+msgMenuHelp
+\000Laguntza
+; \000Help
+;
+msgItemHelp
+Help\000Laguntza...
+; Help\000Help...
+;
+msgItemUsersGuide
+H\000AHIren erabiltzaile-gida...
+; H\000AHI User's guide...
+;
+msgItemConceptIndex
+\000Kontzeptuen aurkibidea...
+; \000Concept Index...
+;
+msgPageMode
+Moduaren ezarpenak
+; Mode settings
+;
+msgPageAdvanced
+Ezarpen aurreratuak
+; Advanced settings
+;
+msgUnitDevice
+%ld unitatea
+; Unit %ld
+;
+msgUnitMusic
+Musika-unitatea
+; Music unit
+;
+msgProperties
+Modu IDa\nGrabazioa\nEgilea\nCopyright\nKontrolatzailea\nBertsioa\nOharra
+; Mode ID\nRecording\nAuthor\nCopyright\nDriver\nVersion\nAnnotation
+;
+msgPropRecordFull
+Duplex osoa
+; Full duplex
+;
+msgPropRecordHalf
+Duplex erdia
+; Half duplex
+;
+msgPropRecordNone
+Ez
+; Nope
+;
+msgOptions
+Auerak
+; Options
+;
+msgOptFrequency
+_Maiztasuna
+; _Frequency
+;
+msgOptChannels
+_Kanalak
+; C_hannels
+;
+msgOptNoChannels
+
+;
+msgOptVolume
+_Bolumena
+; _Volume
+;
+msgOptMonitor
+Mo_nitorea
+; _Monitor
+;
+msgOptGain
+_Irabazia
+; _Gain
+;
+msgOptMuted
+Isilduta
+; Muted
+;
+msgOptInput
+_Sarrera
+; _Input
+;
+msgOptNoInputs
+Sarrerarik ez
+; No inputs
+;
+msgOptOutput
+I_rteera
+; _Output
+;
+msgOptNoOutputs
+Irteerarik ez
+; No outputs
+;
+msgGlobalOptions
+Aukera orokorrak
+; Global options
+;
+msgSystemSound
+sistemaren soinuetarako erabili
+; use for system sounds
+;
+msgGlobOptDebugLevel
+_Arazketa-maila
+; _Debug level
+;
+msgGlobOptEcho
+_Oihartzuna
+; _Echo
+;
+msgGlobOptSurround
+Surround "_Fast" moduetan
+; Surround in "_Fast" modes
+;
+msgGlobOptCPULimit
+CPU erabileraren _muga
+; CPU usage _limit
+;
+msgDebugNone
+Bat ere ez
+; None
+;
+msgDebugLow
+Baxua
+; Low
+;
+msgDebugHigh
+Altua
+; High
+;
+msgDebugFull
+Beteta
+; Full
+;
+msgEchoEnabled
+Gaituta
+; Enabled
+;
+msgEchoFast
+Azkarra
+; Fast
+;
+msgEchoDisabled
+Desgaituta
+; Disabled
+;
+msgSurroundEnabled
+Gaituta
+; Enabled
+;
+msgSurroundDisabled
+Desgaituta
+; Disabled
+;
+msgButtonSave
+_Gorde
+; _Save
+;
+msgButtonUse
+_Erabili
+; _Use
+;
+msgButtonCancel
+_Deuseztu
+; _Cancel
+;
+msgButtonOK
+Ados
+; OK
+;
+msgTextProgramName
+AHIren hobespenak
+; AHI preferences
+;
+msgTextCopyright
+%s%s\nCopyright (C)%s
+; %s%s\nCopyright (C)%s
+;
+msgTextNoWindow
+Ezin da leihoa ireki.
+; Unable to open window.
+;
+msgTextNoFileRequester
+Ezin da fitxategi-eskatzailea esleitu.
+; Unable to allocate file requester.
+;
+msgTextNoFind
+Ezin da `%s' aurkitu!
+; Unable to find `%s'!
+;
+msgTextNoOpen
+Ezin da '%s' (%ld bertsioa) ireki.
+; Unable to open '%s' version %ld.
+;
+msgGlobOptMasterVol
+Bolumen _nagusia
+; _Master volume
+;
+msgMVNoClip
+Mozketarik gabe
+; Without clipping
+;
+msgMVClip
+Mozketarekin
+; With clipping
+;
+msgGlobOptACTime
+Anti-klik denbora lehenetsia
+; Default anti-click time
+;
+msgButtonPlay
+Proba-soinu bat _jo
+; _Play a test sound
+;
+msgOptScalemode
+Bolumen-e_skalatzea
+; Volume sc_aling
+;
+msgSMFixedSafe
+Segurua
+; Safe
+;
+msgSMDynSafe
+Segurua, dinamikoa
+; Safe, dynamic
+;
+msgSM0dB
+Bolumen osoa
+; Full volume
+;
+msgSM3dB
+-3 dB
+; -3 dB
+;
+msgSM6dB
+-6 dB
+; -6 dB
+;
+msgFreqFmt
+%ld Hz
+; %ld Hz
+;
+msgChanFmt
+%ld
+; %ld
+;
+msgVolFmt
+%+4.1f dB
+; %+4.1f dB
+;
+msgACTimeFmt
+%ld ms
+; %ld ms
+;
+msgPercentFmt
+%ld%%
+; %ld%%
+;
