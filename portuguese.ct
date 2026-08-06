@@ -1,4 +1,4 @@
-## version $VER: ahiprefs.catalog 4.6 (04.08.2004)
+## version $VER: ahiprefs.catalog 4.6 (06.08.2026)
 ## language português
 ## codeset 0
 ;
@@ -181,6 +181,10 @@ msgGlobalOptions
 Opções Globais
 ; Global options
 ;
+msgSystemSound
+usar para os sons do sistema
+; use for system sounds
+;
 msgGlobOptDebugLevel
 Nivel de "_Debug"
 ; _Debug level
@@ -260,7 +264,7 @@ OK
 ; *** Texts ***
 ;
 msgTextProgramName
-
+Preferências do AHI
 ; AHI preferences
 ;
 ;You can use something like "%s%s\nCopyright ©%s\nEnglish translation by Your Name" here...
@@ -299,54 +303,54 @@ Com Cortes
 ; With clipping
 ;
 msgGlobOptACTime
-
+Tempo anti-click habitual
 ; Default anti-click time
 ;
 msgButtonPlay
-
+_Tocar um som de teste
 ; _Play a test sound
 ;
 msgOptScalemode
-
+Esc_ala de volume
 ; Volume sc_aling
 ;
 msgSMFixedSafe
-
+Seguro
 ; Safe
 ;
 msgSMDynSafe
-
+Seguro, dinâmico
 ; Safe, dynamic
 ;
 msgSM0dB
-
+Volume máximo
 ; Full volume
 ;
 msgSM3dB
-
+-3 dB
 ; -3 dB
 ;
 msgSM6dB
-
+-6 dB
 ; -6 dB
 ;
 msgFreqFmt
-
+%ld Hz
 ; %ld Hz
 ;
 msgChanFmt
-
+%ld
 ; %ld
 ;
 msgVolFmt
-
+%+4.1f dB
 ; %+4.1f dB
 ;
 msgACTimeFmt
-
+%ld ms
 ; %ld ms
 ;
 msgPercentFmt
-
+%ld%%
 ; %ld%%
 ;

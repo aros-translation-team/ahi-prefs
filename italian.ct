@@ -1,4 +1,4 @@
-## version $VER: ahiprefs.catalog 4.6 (02.02.2005)
+## version $VER: ahiprefs.catalog 4.6 (06.08.2026)
 ## language italiano
 ## codeset 0
 ;
@@ -180,6 +180,10 @@ Nessuna uscita
 msgGlobalOptions
 Opzioni generali
 ; Global options
+;
+msgSystemSound
+usa per i suoni di sistema
+; use for system sounds
 ;
 msgGlobOptDebugLevel
 Livello _debug

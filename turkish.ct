@@ -1,4 +1,4 @@
-## version $VER: ahiprefs.catalog 4.6 (07.11.2021)
+## version $VER: ahiprefs.catalog 4.6 (06.08.2026)
 ## language türkçe
 ## codeset 12
 ;
@@ -179,6 +179,10 @@ msgOptNoOutputs
 msgGlobalOptions
 Evrensel seçenekler
 ; Global options
+;
+msgSystemSound
+sistem sesleri için kullan
+; use for system sounds
 ;
 msgGlobOptDebugLevel
 Hata ayýklama _düzeyi

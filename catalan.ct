@@ -1,4 +1,4 @@
-## version $VER: ahiprefs.catalog 4.6 (04.08.2004)
+## version $VER: ahiprefs.catalog 4.6 (06.08.2026)
 ## language català
 ## codeset 0
 ;
@@ -151,7 +151,7 @@ _Volum
 ; _Volume
 ;
 msgOptMonitor
-
+_Monitor
 ; _Monitor
 ;
 msgOptGain
@@ -184,6 +184,10 @@ Sense sortida
 msgGlobalOptions
 Opcions globals
 ; Global options
+;
+msgSystemSound
+usar per als sons del sistema
+; use for system sounds
 ;
 msgGlobOptDebugLevel
 _Nivell de depuració
@@ -313,46 +317,46 @@ _Prova de so
 ; _Play a test sound
 ;
 msgOptScalemode
-
+Esca_lat de volum
 ; Volume sc_aling
 ;
 msgSMFixedSafe
-
+Segur
 ; Safe
 ;
 msgSMDynSafe
-
+Segur, dinàmic
 ; Safe, dynamic
 ;
 msgSM0dB
-
+Volum màxim
 ; Full volume
 ;
 msgSM3dB
-
+-3 dB
 ; -3 dB
 ;
 msgSM6dB
-
+-6 dB
 ; -6 dB
 ;
 msgFreqFmt
-
+%ld Hz
 ; %ld Hz
 ;
 msgChanFmt
-
+%ld
 ; %ld
 ;
 msgVolFmt
-
+%+4.1f dB
 ; %+4.1f dB
 ;
 msgACTimeFmt
-
+%ld ms
 ; %ld ms
 ;
 msgPercentFmt
-
+%ld%%
 ; %ld%%
 ;

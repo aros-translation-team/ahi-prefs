@@ -1,4 +1,4 @@
-## version $VER: ahiprefs.catalog 4.8 (24.04.2007)
+## version $VER: ahiprefs.catalog 4.8 (06.08.2026)
 ## language czech
 ## codeset 5
 ;
@@ -179,6 +179,10 @@ Bez výstupu
 msgGlobalOptions
 Globální mo¾nosti
 ; Global options
+;
+msgSystemSound
+pou¾ít pro systémové zvuky
+; use for system sounds
 ;
 msgGlobOptDebugLevel
 Úroveò la_dìní

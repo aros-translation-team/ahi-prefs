@@ -1,4 +1,4 @@
-## version $VER: ahiprefs.catalog 4.6 (04.08.2004)
+## version $VER: ahiprefs.catalog 4.6 (06.08.2026)
 ## language svenska
 ## codeset 0
 ;
@@ -181,6 +181,10 @@ msgGlobalOptions
 Globala tillval
 ; Global options
 ;
+msgSystemSound
+använd för systemljud
+; use for system sounds
+;
 msgGlobOptDebugLevel
 Avlusnings_nivå
 ; _Debug level
@@ -331,22 +335,22 @@ msgSM6dB
 ; -6 dB
 ;
 msgFreqFmt
-
+%ld Hz
 ; %ld Hz
 ;
 msgChanFmt
-
+%ld
 ; %ld
 ;
 msgVolFmt
-
+%+4.1f dB
 ; %+4.1f dB
 ;
 msgACTimeFmt
-
+%ld ms
 ; %ld ms
 ;
 msgPercentFmt
-
+%ld%%
 ; %ld%%
 ;

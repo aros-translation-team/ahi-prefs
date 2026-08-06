@@ -1,4 +1,4 @@
-## version $VER: ahiprefs.catalog 4.8 (11.06.2023)
+## version $VER: ahiprefs.catalog 4.8 (06.08.2026)
 ## language polski
 ## codeset 5
 ;
@@ -180,6 +180,10 @@ Brak wyj¶æ
 msgGlobalOptions
 Ustawienia globalne
 ; Global options
+;
+msgSystemSound
+u¿ywaj do d¼wiêków systemowych
+; use for system sounds
 ;
 msgGlobOptDebugLevel
 Poziom _debugowania

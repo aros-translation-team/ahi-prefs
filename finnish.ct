@@ -1,4 +1,4 @@
-## version $VER: ahiprefs.catalog 4.6 (04.08.2004)
+## version $VER: ahiprefs.catalog 4.6 (06.08.2026)
 ## language suomi
 ## codeset 0
 ;
@@ -182,6 +182,10 @@ msgGlobalOptions
 Yleiset valinnat
 ; Global options
 ;
+msgSystemSound
+k‰yt‰ j‰rjestelm‰n ‰‰niin
+; use for system sounds
+;
 msgGlobOptDebugLevel
 _Debug-taso
 ; _Debug level
@@ -300,54 +304,54 @@ Tasonleikkauksen kanssa
 ; With clipping
 ;
 msgGlobOptACTime
-
+Napsahduksen eston oletusaika
 ; Default anti-click time
 ;
 msgButtonPlay
-
+_Soita testi‰‰ni
 ; _Play a test sound
 ;
 msgOptScalemode
-
+ƒ‰nenvoimakkuuden sk_aalaus
 ; Volume sc_aling
 ;
 msgSMFixedSafe
-
+Turvallinen
 ; Safe
 ;
 msgSMDynSafe
-
+Turvallinen, dynaaminen
 ; Safe, dynamic
 ;
 msgSM0dB
-
+T‰ysi ‰‰nenvoimakkuus
 ; Full volume
 ;
 msgSM3dB
-
+-3 dB
 ; -3 dB
 ;
 msgSM6dB
-
+-6 dB
 ; -6 dB
 ;
 msgFreqFmt
-
+%ld Hz
 ; %ld Hz
 ;
 msgChanFmt
-
+%ld
 ; %ld
 ;
 msgVolFmt
-
+%+4.1f dB
 ; %+4.1f dB
 ;
 msgACTimeFmt
-
+%ld ms
 ; %ld ms
 ;
 msgPercentFmt
-
+%ld%%
 ; %ld%%
 ;

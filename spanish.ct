@@ -1,4 +1,4 @@
-## version $VER: ahiprefs.catalog 4.6 (04.08.2004) por Samuel Aguilera <slyguy92@arrakis.es>
+## version $VER: ahiprefs.catalog 4.6 (06.08.2026)
 ## language español
 ## codeset 0
 ;
@@ -181,6 +181,10 @@ msgGlobalOptions
 Opciones Globales
 ; Global options
 ;
+msgSystemSound
+usar para los sonidos del sistema
+; use for system sounds
+;
 msgGlobOptDebugLevel
 Nivel _de Depuración
 ; _Debug level
@@ -299,54 +303,54 @@ Con recorte
 ; With clipping
 ;
 msgGlobOptACTime
-
+Tiempo anti-click por defecto
 ; Default anti-click time
 ;
 msgButtonPlay
-
+_Reproducir un sonido de prueba
 ; _Play a test sound
 ;
 msgOptScalemode
-
+Esc_alado de volumen
 ; Volume sc_aling
 ;
 msgSMFixedSafe
-
+Seguro
 ; Safe
 ;
 msgSMDynSafe
-
+Seguro, dinámico
 ; Safe, dynamic
 ;
 msgSM0dB
-
+Volumen máximo
 ; Full volume
 ;
 msgSM3dB
-
+-3 dB
 ; -3 dB
 ;
 msgSM6dB
-
+-6 dB
 ; -6 dB
 ;
 msgFreqFmt
-
+%ld Hz
 ; %ld Hz
 ;
 msgChanFmt
-
+%ld
 ; %ld
 ;
 msgVolFmt
-
+%+4.1f dB
 ; %+4.1f dB
 ;
 msgACTimeFmt
-
+%ld ms
 ; %ld ms
 ;
 msgPercentFmt
-
+%ld%%
 ; %ld%%
 ;
